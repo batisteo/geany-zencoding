@@ -75,6 +75,9 @@ Activating the Plugin
 Open the Plugin Manager by selecting `Tools->Plugin Manager`.  Find the Zen
 Coding plugin in the list and check the box next to it.
 
+If the plugin is not activated at startup, go to `Edit->Preferences->General->Startup`
+and fill `Extra plugin path` field with `/usr/lib/geany`.
+
 De-Activating the Plugin
 ------------------------
 
